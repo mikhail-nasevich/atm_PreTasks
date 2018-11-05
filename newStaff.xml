@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<staff>
+
+    <person>
+        <name>Bill</name>
+        <surname>Smith</surname>
+        <id>14157856</id>
+        <salary>2565.5</salary>
+    </person>
+    <person>
+        <name>Hanna</name>
+        <surname>Reed</surname>
+        <id>14897568</id>
+        <salary>2110</salary>
+    </person>
+    <person>
+        <name>Fill</name>
+        <surname>Right</surname>
+        <id>14895555</id>
+        <salary>4800</salary>
+    </person>
+
+
+</staff>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PreTask_1.1/PreTask_1.1.iml" filepath="$PROJECT_DIR$/PreTask_1.1/PreTask_1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PreTask_1.2/PreTask_1.2.iml" filepath="$PROJECT_DIR$/PreTask_1.2/PreTask_1.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PreTask_2.1/PreTask_2.1.iml" filepath="$PROJECT_DIR$/PreTask_2.1/PreTask_2.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PreTask_2.2/PreTask_2.2.iml" filepath="$PROJECT_DIR$/PreTask_2.2/PreTask_2.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PreTask_3.1/PreTask_3.1.iml" filepath="$PROJECT_DIR$/PreTask_3.1/PreTask_3.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PreTask_3.2/PreTask_3.2.iml" filepath="$PROJECT_DIR$/PreTask_3.2/PreTask_3.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PreTask_4/PreTask_4.iml" filepath="$PROJECT_DIR$/PreTask_4/PreTask_4.iml" />
+    </modules>
+  </component>
+</project>
